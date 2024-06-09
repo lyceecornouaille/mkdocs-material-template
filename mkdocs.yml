@@ -2,6 +2,7 @@ site_name: My Docs
 
 theme:
   name: material
+  language: fr
 
 
   palette:
@@ -26,3 +27,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+plugins:
+  - privacy
+  - social
